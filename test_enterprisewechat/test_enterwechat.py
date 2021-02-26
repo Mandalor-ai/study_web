@@ -5,7 +5,7 @@ import pytest
 from selenium import webdriver
 
 
-# remote登录企业微信！
+# remote登录企业微信！！
 class Test_welogin:
     def setup(self):
         # 先cmd 输入 chrome -remote-debugging-port=9222
