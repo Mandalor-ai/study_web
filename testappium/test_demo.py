@@ -43,7 +43,7 @@ class Test_demo:
         self.driver.find_element(MobileBy.XPATH, "//*[@text='外出打卡成功']")
         assert  '外出打卡' in self.driver.page_source
     '''
-    案例：
+    案例：作业
         1，点击通讯录
         2，点击添加成员
         3，点击手动输入添加
