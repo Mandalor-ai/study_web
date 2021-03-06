@@ -9,7 +9,7 @@ from selenium import webdriver
 class Test_welogin:
     def setup(self):
         # 先cmd 输入 chrome -remote-debugging-port=9222
-        # 打开企业微信扫码登录
+        # 打开企业微信扫码登录111
         # 执行程序
         chrome_options = webdriver.ChromeOptions()
         chrome_options.debugger_address = '127.0.0.1:9222'
