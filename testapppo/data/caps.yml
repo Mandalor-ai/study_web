@@ -1,0 +1,14 @@
+desirecaps:
+  platformName: "android"
+  deviceName: "127.0.0.1:7555"
+  appPackage: "com.tencent.wework"
+  appActivity: ".launch.LaunchSplashActivity"
+  noReset: "true"
+  unicodeKeyboard: True
+  resetKeyboard: True
+  skipServerInstallation: "true"
+  skipDeviceInitialization: "true"
+  dontStopAppOnReset: "true"
+server:
+  ip: 127.0.0.1
+  port: 4723
